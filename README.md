@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 مرحباً بك في مساحتي البرمجية
-
----
+<h1>👋 Welcome to my Programming Space</h1>
+<p>Software Developer | .NET & Angular Enthusiast</p>
 
 ### 🚀 Languages & Technologies
 <p align="center">
