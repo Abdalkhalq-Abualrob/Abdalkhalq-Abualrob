@@ -37,8 +37,13 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalkhalq-Abualrob&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalkhalq-Abualrob&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalkhalq-Abualrob&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalkhalq-Abualrob&theme=radical" alt="GitHub Streak" />
 </p>
 
 </div>
